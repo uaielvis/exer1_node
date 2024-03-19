@@ -1,4 +1,4 @@
-// src/Turma.js
+// Turma.js
 
 class Turma {
     constructor(codigo, nota) {

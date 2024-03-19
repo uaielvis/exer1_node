@@ -1,4 +1,4 @@
-// src/Aluno.js
+// Aluno.js
 
 class Aluno {
     constructor(nome, login, ra) {
